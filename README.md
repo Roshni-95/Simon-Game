@@ -1,5 +1,5 @@
 # Simon-Game 
-click the right color
+Choose the correct color!
 
 A simple game developed using JS in which a user needs to click the highlighted color to progress ahead in game level.
 If wrong color selected,game over!
